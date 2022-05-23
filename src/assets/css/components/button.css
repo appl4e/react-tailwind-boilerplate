@@ -1,6 +1,4 @@
 .btn{
-  @apply px-6 py-2 text-xs;
-  &-primary{
-    @apply bg-blue-500 hover:bg-blue-400 transition duration-150 rounded text-white ;
-  }
+  @apply px-6 py-2 text-xs transition duration-150 rounded;
+  
 }
